@@ -59,6 +59,7 @@ pip3 install -r ./environment/dna_requirements.txt
 | umap-learn | 0.5.6 |
 
 ***Note: Triton is not utilised in this installation***
+
 ***Note: You need to update cuda version to correspond the version your GPU is using*** 
 
 ### DNABERT-2 & Triton
