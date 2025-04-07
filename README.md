@@ -25,7 +25,7 @@ Furthermore, chromatin states are utilised as a new data attribute to test if th
 - `tests/` - tests for checking preprocessing results 
 
 
-The best trained model checkpoints can be downloaded [here](https://docs.google.com/uc?export=download&id=1ImgeC_d0A5xcFCD24-zQ51JwS8IDu7N7). Similarly, the UMAP models and data utilised for creating those UMAP figures can be downloaded [here](https://docs.google.com/uc?export=/1hvwyC16iDkNwbIHxHq-UIPpV5EqrW_41).
+The best trained model checkpoints can be downloaded [here](https://docs.google.com/uc?export=download&id=1ImgeC_d0A5xcFCD24-zQ51JwS8IDu7N7). Similarly, the UMAP models and data utilised for creating those UMAP figures can be downloaded [here](https://docs.google.com/uc?export=download&id=1hvwyC16iDkNwbIHxHq-UIPpV5EqrW_41).
 
 ## Environment 
 
