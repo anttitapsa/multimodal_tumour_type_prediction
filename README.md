@@ -18,13 +18,15 @@ Furthermore, chromatin states are utilised as a new data attribute to test if th
 - `environment/` - programming environment scripts   
 - `extfiles/` - help files utilised in training and data processing 
 - `figures/` - saved training figures
-- `models/` - trained models and accuracies and losses of the training 
 - `notebooks/` - jupyter notebooks utilised in data visualisation and exploring data processing
 - `slurm/` - slurm scripts utilised to run codes on cluster  
 - `src/` - source codes
 - `Test_MuAt`- test original MuAt model
 - `tests/` - tests for checking preprocessing results 
-- `UMAP/`  - UMAP models and data 
+
+
+The best trained model checkpoints can be downloaded [here](https://docs.google.com/uc?export=download&id=1ImgeC_d0A5xcFCD24-zQ51JwS8IDu7N7)
+The UMAP models and data utilised for these models can be downloaded [here](https://docs.google.com/uc?export=/1hvwyC16iDkNwbIHxHq-UIPpV5EqrW_41)
 
 ## Environment 
 
